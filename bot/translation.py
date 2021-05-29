@@ -5,16 +5,15 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Pro Auto Filter Bot....😉
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+<i>My Owner <b><i><a href="https://t.me/DarkShAdOwZzZ">IᖇOᑎ ᗰᗩᑎ</a></i></b> 👨‍💻
 
-For More Details Click Help Button Below..
-<b><i><a href="https://t.me/Mo_Tech_YT">MoTechYT</a></i></b>
+Request Your Movies in <b><i><a href="https://t.me/New_CinemaZ_Group”>New_CinemaZ_Group</a></i></b> 🌟
+
+Don't Add Me in any Groups You Have I won't Work 😠
 </i>"""    
     
     HELP_TEXT = """
-<b><i><u>How To Use Me!?</u></i></b>
 
 <i>
 -> Add Me To Any Group And Make Me Admin
@@ -43,16 +42,16 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-<b><i><a href="https://t.me/Mo_Tech_YT">MoTechYT</a></i></b>
+<b><i><a href="https://t.me/New_CinemaZ_Group”>New CinemaZ Group</a></i></b>
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Pro Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <b> IᖇOᑎ ᗰᗩᑎ Bot</b>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/MRk_YT">MRK_YT</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/DarkShAdOwZzZ">IᖇOᑎ ᗰᗩᑎ</a></i></b>
 
-<b>➥ Language</b> : <code>Python3</code>
+<b>➥ Language</b> : <code>Python 3</code>
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/MRK-YT/Pro-Auto-Filter-Bot">Click Me</a></i>
+<b>➥ Support Us</b> : <i><a href="https://t.me/NC_linkz">NC_linkz</a></i>
 """
