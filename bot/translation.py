@@ -8,7 +8,7 @@ class Translation(object):
 
 <i>My Owner <b><i><a href="https://t.me/DarkShAdOwZzZ">IᖇOᑎ ᗰᗩᑎ</a></i></b> 👨‍💻
 
-Request Your Movies in <b><i><a href="https://t.me/New_CinemaZ_Group”>New_CinemaZ_Group</a></i></b> 🌟
+Request Your Movies in <b> "https://t.me/New_CinemaZ_Group” </b>
 
 Don't Add Me in any Groups You Have I won't Work 😠
 </i>"""    
@@ -16,8 +16,8 @@ Don't Add Me in any Groups You Have I won't Work 😠
     HELP_TEXT = """
 
 <i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
+-> Don't Add Me To Any Group And Make Me Admin
+-> Don't Add Me To Your Desired Channel
 </i>
 
 <b>Bot Commands (Works Only In Groups) :</b>
@@ -42,7 +42,7 @@ Don't Add Me in any Groups You Have I won't Work 😠
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-<b><i><a href="https://t.me/New_CinemaZ_Group”>New CinemaZ Group</a></i></b>
+<b><i> https://t.me/New_CinemaZ_Group </i></b>
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <b> IᖇOᑎ ᗰᗩᑎ Bot</b>
