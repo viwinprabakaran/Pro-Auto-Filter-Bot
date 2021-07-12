@@ -8,14 +8,14 @@ class Translation(object):
 
 <i>My Owner <b><i><a href="https://t.me/DarkShAdOwZzZ">IᖇOᑎ ᗰᗩᑎ</a></i></b> 👨‍💻
 
-Request Your Movies in <b> "https://t.me/New_CinemaZ_Group” </b>
+Request Your Movies in <b> "https://t.me/joinchat/yJcv2OAZ3JQwYjNl” </b>
 
 Don't Add Me in any Groups You Have, I won't Work 😠
 </i>"""    
     
     HELP_TEXT = """
             
-<b><i> https://t.me/New_CinemaZ_Group </i></b>
+<b><i> ♻️ 𝙅𝙊𝙄𝙉 :- https://t.me/joinchat/yJcv2OAZ3JQwYjNl </i></b>
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <b> IᖇOᑎ ᗰᗩᑎ Bot</b>
