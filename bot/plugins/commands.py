@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/Mo_TECH_YT/26"
+                                    '🗂️ Ask Your Movies 🗂️', url="https://t.me/New_CinemaZ_Group"
                                 )
                         ]
                     ]
@@ -50,14 +50,14 @@ async def start(bot, update):
             await update.bot.send_video(
                 chat_id=update.chat.id,
                 video = file_id,
-                caption = caption,
+                caption = f"{file_name} \n @New_CinemaZ_Group",
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/Mo_TECH_YT/26"
+                                    '🗂️ Ask Your Movies 🗂️', url="https://t.me/New_CinemaZ_Group"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/Mo_TECH_YT/26"
+                                    '🗂️ Ask Your Movies 🗂️', url="https://t.me/New_CinemaZ_Group"
                                 )
                         ]
                     ]
