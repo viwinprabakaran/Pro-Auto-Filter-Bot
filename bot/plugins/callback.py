@@ -1608,7 +1608,7 @@ async def cb_about(bot, update: CallbackQuery):
         [
             InlineKeyboardButton
                 (
-                    "My Dev ⚡", url="https://t.me/MRK_YT"
+                    "My Dev ⚡", url="https://t.me/DarkShAdOwZzZ"
                 ),
                 
             InlineKeyboardButton
@@ -1639,11 +1639,11 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('My Dev ⚡', url='https://t.me/MRK_YT'),
-            InlineKeyboardButton('Source Code 🧾', url ='https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FMRK-YT%2FUnlimited-Filter-Bot%2Fblob%2Fmain%2FREADME.md&template=https%3A%2F%2Fgithub.com%2FMRK-YT%2FPro-Auto-Filter-Bot.git')
+            InlineKeyboardButton('My Dev ⚡', url='https://t.me/DarkShAdOwZzZ'),
+            InlineKeyboardButton('Source Code 🧾', url ='https://t.me/joinchat/yJcv2OAZ3JQwYjNl')
         ],[
-            InlineKeyboardButton('Support🛠', url='https://t.me/Mo_Tech_YT'),
-            InlineKeyboardButton('Tutorial Video', url='https://youtu.be/uAHl5jvnrhk')
+            InlineKeyboardButton('Support🛠', url='https://t.me/joinchat/yJcv2OAZ3JQwYjNl'),
+            InlineKeyboardButton('Tutorial Video', url='https://t.me/joinchat/yJcv2OAZ3JQwYjNl')
         ],[
             InlineKeyboardButton('Help ⚙', callback_data="help")
         ]]
